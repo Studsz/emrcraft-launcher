@@ -4,11 +4,6 @@ Made by: Sparks
 Welcome to the EMRCRAFT Installer! This tool is designed to help you easily install and launch EMRCRAFT, made by the EMRCraft development team.
 EMRCRAFT DISCORD SERVER: https://discord.gg/rbqwkwsqmf
 
-main aspects:
-    
-    Quick Installation: Fast and efficient installation process to get you started in no time.
-    Automatic Updates: Stay up-to-date with the latest features and updates.
-
 System Requirements
 
     Operating System: Windows or linux.
