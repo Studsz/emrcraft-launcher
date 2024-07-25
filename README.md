@@ -3,6 +3,7 @@ Made by: Sparks
 
 Welcome to the EMRCRAFT Installer! This tool is designed to help you easily install and launch EMRCRAFT, made by the EMRCraft development team.
 EMRCRAFT DISCORD SERVER: https://discord.gg/rbqwkwsqmf
+
 Why is there so many useless files?
  All files. even if they were removed are listed here. 
 
