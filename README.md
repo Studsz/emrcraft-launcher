@@ -25,7 +25,7 @@ Installation Guide
 System Requirements
 
     Operating System: Windows or linux.
-    Processor: Intel i3, AMD Ryzen 2, or higher
+    Processor: Intel i3, AMD Ryzen 2, or higher (or other (somewhat good) processers should do the job just fine
     Memory: 4 GB RAM minumum (8 GB recommended)
     Storage: around 50 to 100 mb
 
