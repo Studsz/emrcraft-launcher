@@ -10,7 +10,11 @@ System Requirements
     Processor: Intel i3, AMD Ryzen 2, or higher (or other (somewhat good) processers should do the job just fine
     Memory: 4 GB RAM minumum (8 GB recommended)
     Storage: around 50 to 100 mb
-
+    
+Why is there so many useless files?
+I_______________________________________________________I
+I All files. even if they were removed are listed here. I
+I_______________________________________________________I
 Support
 
 If you encounter any issues or have any questions, please reach us in our emrcraft discord server https://discord.gg/rbqwkwsqmf
