@@ -1,7 +1,7 @@
 # emrcraft-launcher
 Made by: Sparks
 
-Welcome to the EMRCRAFT Installer! This tool is designed to help you easily install and launch EMRCRAFT, made by sparks.
+Welcome to the EMRCRAFT Installer! This tool is designed to help you easily install and launch EMRCRAFT, made by the EMRCraft development team.
 EMRCRAFT DISCORD SERVER: https://discord.gg/rbqwkwsqmf
 
 main aspects:
