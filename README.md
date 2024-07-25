@@ -3,6 +3,8 @@ Made by: Sparks
 
 Welcome to the EMRCRAFT Installer! This tool is designed to help you easily install and launch EMRCRAFT, made by the EMRCraft development team.
 EMRCRAFT DISCORD SERVER: https://discord.gg/rbqwkwsqmf
+Why is there so many useless files?
+ All files. even if they were removed are listed here. 
 
 System Requirements
 
@@ -11,10 +13,8 @@ System Requirements
     Memory: 4 GB RAM minumum (8 GB recommended)
     Storage: around 50 to 100 mb
     
-Why is there so many useless files?
-I_______________________________________________________I
-I All files. even if they were removed are listed here. I
-I_______________________________________________________I
+
+
 Support
 
 If you encounter any issues or have any questions, please reach us in our emrcraft discord server https://discord.gg/rbqwkwsqmf
